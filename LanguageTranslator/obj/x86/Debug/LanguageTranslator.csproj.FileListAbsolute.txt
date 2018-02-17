@@ -1,0 +1,11 @@
+D:\day3\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+D:\day3\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+D:\day3\LanguageTranslator\LanguageTranslator\obj\x86\Debug\LanguageTranslator.exe
+D:\day3\LanguageTranslator\LanguageTranslator\obj\x86\Debug\LanguageTranslator.pdb
+D:\day3\LanguageTranslator\LanguageTranslator\obj\x86\Debug\LanguageTranslator.csprojResolveAssemblyReference.cache
+D:\Projects\New folder\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+D:\Projects\New folder\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+D:\Projects\New folder\LanguageTranslator\LanguageTranslator\obj\x86\Debug\LanguageTranslator.csprojResolveAssemblyReference.cache
+D:\Projects\New folder\LanguageTranslator\LanguageTranslator\obj\x86\Debug\LanguageTranslator.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\LanguageTranslator\LanguageTranslator\obj\x86\Debug\LanguageTranslator.exe
+D:\Projects\New folder\LanguageTranslator\LanguageTranslator\obj\x86\Debug\LanguageTranslator.pdb
